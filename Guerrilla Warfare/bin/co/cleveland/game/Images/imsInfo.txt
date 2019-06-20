@@ -1,0 +1,27 @@
+
+// imsInfo.txt images
+
+// title/help screen
+o title.gif
+
+// player's images
+s runningLeft.png 10
+s runningRight.png 10
+s shootRightRunning.png 10
+s shootLeftRunning.png 10
+o shootRightStill.png
+o shootLeftStill.png
+o stillRight.png
+o stillLeft.png
+o jumpingLeft.png
+o jumpingRight.png
+
+
+// scenery images
+o background.png
+o houses.gif
+
+// bullet and muzzle
+o Bullet.png
+s MuzzleRight.png 4
+s MuzzleLeft.png 4
